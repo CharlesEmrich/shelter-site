@@ -1,0 +1,26 @@
+body {
+  background-color: Gainsboro;
+}
+
+.friend {
+  display: inline-block;
+  width: 420px;
+  margin: 5px 10px;
+  background-color: thistle;
+}
+
+.friend h3 {
+text-align: center;
+font-size: 24px;
+}
+
+.friend img {
+/*padding: 3px;*/
+margin: 10px;
+/*border: 30px solid black;*/
+}
+
+.friend p {
+  font-style: italic;
+  margin: 5px 5px;
+}
